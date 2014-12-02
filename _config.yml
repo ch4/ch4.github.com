@@ -16,7 +16,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:
+  github:         https://github.com/ch4
   stackexchange:  
   linkedin:       
   instagram:      
@@ -38,8 +38,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
+  - title: GitHub
+    url: https://github.com/ch4
   - title: Shiftmates
     url: http://shiftmates.net
     external: true
