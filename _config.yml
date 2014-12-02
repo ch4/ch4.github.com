@@ -1,6 +1,6 @@
 title:            ch4.github.io
 description:      A site full of interesting things that may or may not be as interesting in the future.
-disqus_shortname: 
+disqus_shortname: ch4ch4ch4
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -38,9 +38,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: GitHub
-    url: https://github.com/ch4
-    external: true
   - title: Shiftmates
     url: http://shiftmates.net
     external: true
